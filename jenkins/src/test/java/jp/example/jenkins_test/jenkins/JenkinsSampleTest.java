@@ -15,6 +15,7 @@ public class JenkinsSampleTest {
 		assertEquals("getSample",string, sample.getSample());
 	}
 
+	
 	@Test
 	public void testGetSample2() {
 		JenkinsSample sample = new JenkinsSample();
