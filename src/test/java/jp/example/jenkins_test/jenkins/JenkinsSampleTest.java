@@ -8,10 +8,6 @@ import org.junit.Test;
 public class JenkinsSampleTest {
 
     @Test
-    public void test() {
-//        fail("Not yet implemented");
-    }
-    @Test
     public void testGetSample() {
         JenkinsSample sample = new JenkinsSample();
         String string = "AAA";
